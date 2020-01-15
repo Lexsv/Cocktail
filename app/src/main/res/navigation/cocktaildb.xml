@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cocktaildb"
+    app:startDestination="@id/loader">
+
+    <fragment
+        android:id="@+id/loader"
+        android:name="ua.com.cocktaildb.presenters.loader.Loader"
+        android:label="Loader">
+        <action
+            android:id="@+id/action_loader_to_listcoctail"
+            app:destination="@id/listcoctail" />
+    </fragment>
+    <fragment
+        android:id="@+id/listcoctail"
+        android:name="ua.com.cocktaildb.presenters.listcoctail.ListCoctail"
+        android:label="Listcoctail" />
+</navigation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_size_2">2dp</dimen>
+    <dimen name="margin_size_5">5dp</dimen>
+    <dimen name="margin_size_8">8dp</dimen>
+    <dimen name="margin_size_10">10dp</dimen>
+    <dimen name="margin_size_16">16dp</dimen>
+    <dimen name="margin_size_18">18dp</dimen>
+    <dimen name="margin_size_20">20dp</dimen>
+    <dimen name="margin_size_25">25dp</dimen>
+    <dimen name="margin_size_40">40dp</dimen>
+    <dimen name="margin_size_60">60dp</dimen>
+
+    <dimen name="pading_size_2">2dp</dimen>
+    <dimen name="pading_size_5">5dp</dimen>
+    <dimen name="pading_size_10">10dp</dimen>
+    <dimen name="pading_size_16">16dp</dimen>
+    <dimen name="pading_size_18">18dp</dimen>
+    <dimen name="pading_size_20">20dp</dimen>
+    <dimen name="pading_size_25">25dp</dimen>
+    <dimen name="pading_size_40">40dp</dimen>
+    <dimen name="pading_size_60">60dp</dimen>
+
+
+
+    <dimen name="foto_w">100dp</dimen>
+    <dimen name="foto_h">100dp</dimen>
+</resources>
